@@ -1,0 +1,53 @@
+---
+title: "Introduction to Data Science Midterm"
+author: 
+  - Yüzübenli, Deniz Levent[^1]
+bibliography: ../bibliography/biblio.bib
+csl: ../csl/apa.csl
+header-includes:
+  - \usepackage{polyglossia}
+  - \setmainlanguage{english}
+  - \usepackage{booktabs}
+  - \usepackage{caption} 
+  - \captionsetup[table]{skip=10pt}
+output:
+  bookdown::pdf_document2:
+    fig_caption: yes
+    fig_height: 3
+    fig_width: 4
+    keep_tex: no
+    latex_engine: xelatex
+    number_sections: yes
+    toc: no
+geometry: margin=1in
+link-citations: yes
+urlcolor: blue
+fontsize: 12pt
+biblio-style: apalike
+---
+
+<!-- ======================================================================= -->
+<!-- ============================== FOOTNOTES ============================== -->
+<!-- ======================================================================= -->
+[^1]: 18080118, [ikt0208](https://github.com/denizyuzubenli/ikt0208.git)
+
+
+# Introduction
+This literature review summarizes four articles on foreign direct investment (FDI) in the United States. The articles cover various topics, including the determinants of FDI inflows, the impact of FDI on the US economy, and the role of government policies in attracting FDI. The review aims to provide a comprehensive understanding of the determinants and impacts of FDI in the United States, which can be valuable for policymakers, business leaders, and researchers interested in FDI and its effects on the US economy.
+## Literature Review
+The literature on foreign direct investment (FDI) in the United States is extensive and covers various topics related to FDI.
+
+The article "Foreign Direct Investment in the United States: The State of Knowledge in Research" [@arpan1981foreign]  provides a comprehensive literature review of the existing research on FDI in the United States. The authors analyze the research on the determinants of FDI inflows, the impact of FDI on the US economy, and the role of government policies in attracting FDI. They also identify gaps in the literature and provide suggestions for future research.
+
+The article "Foreign Direct Investment in the United States: An Economic Analysis" [@jackson2013foreign] provides an economic analysis of the effects of FDI on the US economy, including the impact on economic growth, employment, and productivity. The authors also review the literature on the determinants of FDI inflows and the role of government policies in attracting FDI.
+
+The article "Foreign Direct Investment Inflows and the US Economy: An Empirical Analysis" [@salehizadeh2005foreign] examines the relationship between FDI inflows and various economic indicators in the United States, such as GDP, employment, and trade. The authors use empirical analysis to evaluate the impact of FDI on the US economy.
+
+The article "Foreign Direct Investment in the United States: An Analysis by Country of Origin"[@grosse1996foreign] focuses on the analysis of FDI inflows into the United States from different countries of origin. The authors examine the characteristics of FDI from different countries and identify the factors that influence FDI decisions by foreign investors.
+
+Overall, the literature on FDI in the United States provides valuable insights into the determinants of FDI inflows, the impact of FDI on the US economy, and the role of government policies in attracting FDI. These articles contribute to the literature by providing comprehensive literature reviews, economic analysis, empirical analysis, and country-specific analysis of FDI in the United States.
+
+
+\newpage
+# References {#references}
+<div id="refs"></div>
